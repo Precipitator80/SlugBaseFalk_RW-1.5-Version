@@ -1,0 +1,7 @@
+H:\Rain World Game Things\Rain World Game Versions\Rain World Peaceful Mode\Mods\RainWorldPeacefulWorld.dll
+H:\Rain World Game Things\Rain World Game Versions\Rain World Peaceful Mode\Mods\RainWorldPeacefulWorld.pdb
+H:\Rain World Game Things\Rain World Mods And Tools\New Age\Rain World Peaceful World Mod Partiality Files\obj\Debug\Rain World Peaceful World.csprojAssemblyReference.cache
+H:\Rain World Game Things\Rain World Mods And Tools\New Age\Rain World Peaceful World Mod Partiality Files\obj\Debug\Rain World Peaceful World.csproj.CoreCompileInputs.cache
+H:\Rain World Game Things\Rain World Mods And Tools\New Age\Rain World Peaceful World Mod Partiality Files\obj\Debug\Rain World Peaceful World.csproj.CopyComplete
+H:\Rain World Game Things\Rain World Mods And Tools\New Age\Rain World Peaceful World Mod Partiality Files\obj\Debug\RainWorldPeacefulWorld.dll
+H:\Rain World Game Things\Rain World Mods And Tools\New Age\Rain World Peaceful World Mod Partiality Files\obj\Debug\RainWorldPeacefulWorld.pdb

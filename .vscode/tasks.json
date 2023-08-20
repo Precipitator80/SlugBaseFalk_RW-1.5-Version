@@ -1,0 +1,24 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    // https://stackoverflow.com/questions/47707095/visual-studio-code-for-net-framework
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "H:/Visual Studio/Visual Studio/MSBuild/Current/Bin/MSBuild.exe", // Sentinel / Main PC
+            //"command": "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/MSBuild.exe", // Remote / Mini Strathclyde PC
+            "type": "shell",
+            "args": [
+                "SlugBaseFalk.csproj",
+                "/t:Build",
+                "/p:Configuration=Debug",
+                "/p:Platform=\"AnyCPU\"",
+                "/p:OutputPath='H:/Rain World Game Things/Rain World Game Versions/Rain World Ambience Recording Setup/BepInEx/plugins'",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": []
+        }
+    ]
+}

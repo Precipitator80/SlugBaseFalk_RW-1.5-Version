@@ -1,0 +1,7 @@
+H:\Rain World Game Things\Rain World Mods And Tools\New Age\Axolotl Gills Partiality Files\obj\Debug\AxolotlGills.csprojAssemblyReference.cache
+H:\Rain World Game Things\Rain World Mods And Tools\New Age\Axolotl Gills Partiality Files\obj\Debug\AxolotlGills.csproj.CoreCompileInputs.cache
+H:\Rain World Game Things\Rain World Game Versions\Rain World Fancy Slugcats\Mods\AxolotlGills.dll
+H:\Rain World Game Things\Rain World Game Versions\Rain World Fancy Slugcats\Mods\AxolotlGills.pdb
+H:\Rain World Game Things\Rain World Mods And Tools\New Age\Axolotl Gills Partiality Files\obj\Debug\AxolotlGills.csproj.CopyComplete
+H:\Rain World Game Things\Rain World Mods And Tools\New Age\Axolotl Gills Partiality Files\obj\Debug\AxolotlGills.dll
+H:\Rain World Game Things\Rain World Mods And Tools\New Age\Axolotl Gills Partiality Files\obj\Debug\AxolotlGills.pdb

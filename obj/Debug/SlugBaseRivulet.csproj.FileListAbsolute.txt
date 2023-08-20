@@ -1,0 +1,8 @@
+H:\Rain World Game Things\Rain World Game Versions\Rain World Fancy Slugcats\Mods\SlugBaseFalk.dll
+H:\Rain World Game Things\Rain World Game Versions\Rain World Fancy Slugcats\Mods\SlugBaseFalk.pdb
+H:\Rain World Game Things\Rain World Mods And Tools\New Age\SlugBase Falk Partiality Files\obj\Debug\SlugBaseFalk.csprojAssemblyReference.cache
+H:\Rain World Game Things\Rain World Mods And Tools\New Age\SlugBase Falk Partiality Files\obj\Debug\SlugBaseFalk.csproj.CoreCompileInputs.cache
+H:\Rain World Game Things\Rain World Mods And Tools\New Age\SlugBase Falk Partiality Files\obj\Debug\SlugBaseFalk.dll
+H:\Rain World Game Things\Rain World Mods And Tools\New Age\SlugBase Falk Partiality Files\obj\Debug\SlugBaseFalk.pdb
+H:\Rain World Game Things\Rain World Game Versions\Rain World Fancy Slugcats\BepInEx\plugins\SlugBaseFalk.dll
+H:\Rain World Game Things\Rain World Game Versions\Rain World Fancy Slugcats\BepInEx\plugins\SlugBaseFalk.pdb
